@@ -50,4 +50,4 @@ Because the sum of these three number would be 0.99999, which is not actual 1.
 Provide a one-paragraph response to this question.
 Even though they are quite close, the computer won't be able to recognize them as the same value.
 
-(Did you remember to add your name?!) Yes!!
+(Did you remember to add your name?!) Yes!! h
